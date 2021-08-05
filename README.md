@@ -5,7 +5,7 @@ Evaluation code and detailed instructions will be up soon, until then you can ac
 
 First install datasets library:
 ```python
-pip install datasets`
+pip install datasets
 ```
 
 To access one of the versions of the dataset execute one of the following:
